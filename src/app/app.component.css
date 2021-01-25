@@ -36,13 +36,14 @@ mat-card-content{
 mat-card{
 
    /* box-shadow: 4px 4px  3px rgb(150, 146, 146); */
-   width: 700px;
+   width: 650px;
    height: 150px;
 }
 
 .all{
   display: inline-flex;
   margin-top: 20px;
+  margin-left: -50px;
 }
 .div1,.div2,.div3{
   margin-top : 20px;
